@@ -8,6 +8,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text1"
         android:textSize="30sp"
+        android:background="#f2a2a2"
         />
     <TextView
         android:layout_width="match_parent"
